@@ -39,7 +39,3 @@ Les simulations valident la robustesse de la commande :
 *   Suivi précis de la consigne de vitesse optimale malgré un profil de vent variable.
 *   Stabilisation de la tension du bus DC avec un faible taux d'ondulation.
 *   Injection de courants sinusoïdaux sur le réseau avec un taux de distorsion harmonique (THD) conforme aux exigences normatives.
-
-
-
-**LinkedIn** : linkedin.com/in/khayr-ing123
