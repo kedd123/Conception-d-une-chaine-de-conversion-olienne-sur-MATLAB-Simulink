@@ -1,6 +1,6 @@
 ## Conception et Commande d'une Chaîne de Conversion d'Énergie Éolienne sur MATLAB/Simulink
 
-## Description du Projet
+
 Ce dépôt contient les fichiers de modélisation et de simulation d'une chaîne de conversion d'énergie éolienne d'une puissance nominale de 25 kW. Le système repose sur une génératrice de type Machine Synchrone à Aimants Permanents (PMSG) connectée au réseau électrique via une structure de convertisseurs AC-DC-AC.
 
 L'objectif principal est de maximiser l'extraction d'énergie (MPPT) et d'assurer une injection de puissance de haute qualité sur le réseau triphasé, tout en maintenant la stabilité du bus continu.
