@@ -24,8 +24,7 @@ Le projet met en œuvre plusieurs niveaux de régulation :
 ## Contenu du Dépôt
 *   **Chaine_de_conversion_eolienne_25kw.slx** : Modèle principal MATLAB/Simulink.
 *   **Parameters.m** : Script MATLAB contenant l'ensemble des paramètres numériques (machine, turbine, régulateurs PI).
-*   **Machine.jpg / Turbine.jpg** : Schémas illustratifs des composants du système.
-*   **LICENSE** : Fichier de licence MIT.
+*   **Machine.jpg / Turbine.jpg** : Schémas illustratifs des composants du système.*   **LICENSE** : Fichier de licence MIT.
 
 ## Instructions d'Utilisation
 1.  Cloner le dépôt localement.
